@@ -9,7 +9,7 @@ function Bitcoin() {
   return (
     <div
       className="container-fluid "
-      style={{ zIndex: 2, position: "relative", marginTop: 50 }}
+      style={{ zIndex: 2, position: "relative" }}
     >
       <section
         className="justify-content-center pt-5"
@@ -21,10 +21,7 @@ function Bitcoin() {
               <img src={elon} className="elon-img" alt="" />
               <img src={post1} className="post1-img d-none d-md-block" alt="" />
             </div>
-            <div
-              className="col-12 bitcoin-flex col-md-4 d-md-none"
-              style={{ marginTop: 150 }}
-            >
+            <div className="col-12 bitcoin-flex col-md-4 d-md-none" style={{marginTop:150}}>
               <img src={post1} className="post2-img" alt="" />
             </div>
             <div className="col-12 col-md-4 bitcoin-container bitcoin-flex">

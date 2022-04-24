@@ -32,7 +32,7 @@ function Crousal() {
         </div>
       </div>
       {/* Buttons  */}
-      <div className="m-auto" style={{ width: 112}}>
+      <div className="col-4 col-md-2 col-lg-2 col-xl-1 m-auto">
         <div
           id="carouselExampleIndicators"
           class="carousel slide"

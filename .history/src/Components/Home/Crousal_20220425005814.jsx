@@ -7,9 +7,9 @@ import "./css/crousal.css";
 
 function Crousal() {
   return (
-    <div className="mt-5 row">
+    <div className="mt-5 container-fluid">
       {/* Crousel  */}
-      <div className="col-12 col-md-12 m-auto">
+      <div className="col-12 col-md-6 m-auto">
         <div
           id="carouselExampleIndicators"
           class="carousel slide"
@@ -32,7 +32,7 @@ function Crousal() {
         </div>
       </div>
       {/* Buttons  */}
-      <div className="m-auto" style={{ width: 112}}>
+      <div className="col-4 col-md-2 col-lg-2 col-xl-1 m-auto">
         <div
           id="carouselExampleIndicators"
           class="carousel slide"

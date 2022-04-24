@@ -9,7 +9,7 @@ function Bitcoin() {
   return (
     <div
       className="container-fluid "
-      style={{ zIndex: 2, position: "relative", marginTop: 50 }}
+      style={{ zIndex: 2, position: "relative", marginTop: 40 }}
     >
       <section
         className="justify-content-center pt-5"
