@@ -9,7 +9,7 @@
   font-family: "chronicalight";
   font-weight: 900;
   src: local("chronicalight"),
-    url(./Components/fonts/ChronicaPro-Medium.ttf) format("truetype");
+    url(./Components/fonts/ChronicaPro-Regular.ttf) format("truetype");
 }
 
 body {
@@ -19,7 +19,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 *{
-  font-family: Lato;
+  font-family: chronicalight;
 }
 
 code {

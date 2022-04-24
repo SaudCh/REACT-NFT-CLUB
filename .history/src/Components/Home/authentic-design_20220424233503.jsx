@@ -30,15 +30,6 @@ function AuthenticDesign() {
               <br />A total of three cards from their series, were added to the
               Oasis Mining curated collection back in 2017."
             </p>
-            <a
-              style={{ width: 200 }}
-              target="_blank"
-              rel="noreferrer"
-              href="https://discord.com/invite/ccgbtcone"
-              className="btn header-button me-md-5"
-            >
-              Check them out!
-            </a>
           </div>
           <div className="col-1"></div>
         </div>

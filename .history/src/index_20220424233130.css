@@ -5,13 +5,6 @@
     url(./Components/fonts/ChronicaPro-ExtraBold.ttf) format("truetype");
 }
 
-@font-face {
-  font-family: "chronicalight";
-  font-weight: 900;
-  src: local("chronicalight"),
-    url(./Components/fonts/ChronicaPro-Medium.ttf) format("truetype");
-}
-
 body {
   margin: 0;
   font-family: Lato, Arial, serif;

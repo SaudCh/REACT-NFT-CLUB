@@ -37,7 +37,7 @@ function AuthenticDesign() {
               href="https://discord.com/invite/ccgbtcone"
               className="btn header-button me-md-5"
             >
-              Check them out!
+              Check them out
             </a>
           </div>
           <div className="col-1"></div>

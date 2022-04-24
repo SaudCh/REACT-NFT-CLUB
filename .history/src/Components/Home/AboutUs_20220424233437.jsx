@@ -33,15 +33,6 @@ function AboutUs() {
               used in multiple occasions by Elon Musk in his Twitter posts and
               even as his PFP.
             </p>
-            <a
-              style={{width:200}}
-              target="_blank"
-              rel="noreferrer"
-              href="https://discord.com/invite/ccgbtcone"
-              className="btn header-button me-md-5"
-            >
-              Join our discord
-            </a>
           </div>
           <div className="col-1"></div>
         </div>

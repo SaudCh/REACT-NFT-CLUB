@@ -34,13 +34,12 @@ function AboutUs() {
               even as his PFP.
             </p>
             <a
-              style={{width:200}}
               target="_blank"
               rel="noreferrer"
-              href="https://discord.com/invite/ccgbtcone"
+              href="https://opensea.io/collection/emblem-vault?search%5BsortAscending%5D=true&search%5BsortBy%5D=PRICE&search%5BstringTraits%5D%5B0%5D%5Bname%5D=Oasis%20Mining&search%5BstringTraits%5D%5B0%5D%5Bvalues%5D%5B0%5D=CCGBTCONE"
               className="btn header-button me-md-5"
             >
-              Join our discord
+              Buy on Opensea
             </a>
           </div>
           <div className="col-1"></div>

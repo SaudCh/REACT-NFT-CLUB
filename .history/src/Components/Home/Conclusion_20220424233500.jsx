@@ -9,10 +9,10 @@ function Conclusion() {
           <div className="col-1"></div>
 
           <div className="col-12 col-md-5 d-flex flex-column text-white justify-content-center">
-            <p className="p-0 m-0" style={{ fontSize: 15,fontFamily: "chronicalight" }}>
+            <p className="p-0 m-0" style={{ fontSize: 15 }}>
               CONCLUSION
             </p>
-            <h2 style={{ fontSize: 50, }}>
+            <h2 style={{ fontSize: 50, fontFamily: "chronicalight" }}>
               What does
               <br />
               it all mean?
