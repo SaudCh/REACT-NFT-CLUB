@@ -38,7 +38,7 @@ function Crousal() {
           class="carousel slide"
           data-bs-ride="carousel"
         >
-          <div class="m-auto" style={{width:'max-content'}} >
+          <div class="m-auto border" style={{width:'max-content'}} >
             <button
               className="crousel-buttons active ms-0"
               type="button"
