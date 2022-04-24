@@ -278,23 +278,23 @@ function Faq() {
             class="accordion-item mb-3"
             style={{ backgroundColor: "#29415e" }}
           >
-            <h2 class="accordion-header" id="flush-headingSix">
+            <h2 class="accordion-header" id="flush-headingFive">
               <button
                 class="accordion-button collapsed"
                 style={{ backgroundColor: "#29415e", color: "white" }}
                 type="button"
                 data-bs-toggle="collapse"
-                data-bs-target="#flush-collapseSix"
+                data-bs-target="#flush-collapseFive"
                 aria-expanded="false"
-                aria-controls="flush-collapseSix"
+                aria-controls="flush-collapseFive"
               >
                 How to buy?
               </button>
             </h2>
             <div
-              id="flush-collapseSix"
+              id="flush-collapseFive"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-collapseSix"
+              aria-labelledby="flush-collapseFour"
               data-bs-parent="#accordionFlushExample"
               style={{ backgroundColor: "#ffffff" }}
             >
@@ -304,7 +304,6 @@ function Faq() {
                 of buying CCGBTCONE :
                 <br />
                 1) On marketplaces like Opensea through Emblem Vault :
-                <br />
                 <a
                   target="_blank"
                   rel="noreferrer"
@@ -312,19 +311,37 @@ function Faq() {
                 >
                   https://opensea.io/collection/emblem-vault?search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Oasis%20Mining&search[stringTraits][0][values][0]=CCGBTCONE
                 </a>
-                <br />
-                <br />
+              
                 Make sure to always properly check the vault before buying :
+                https://desktopcommando.medium.com/a-buyers-guide-to-using-emblem-vault-on-opensea-io-bb0d0a206c1a
+                2) Directly on Counterparty XCP through dispensers or dex
+                orders, if available.
                 <br />
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://desktopcommando.medium.com/a-buyers-guide-to-using-emblem-vault-on-opensea-io-bb0d0a206c1a"
+                  href="https://desktopcommando.medium.com/how-to-use-emblemvault-14ba241ca42a"
                 >
-                  https://desktopcommando.medium.com/a-buyers-guide-to-using-emblem-vault-on-opensea-io-bb0d0a206c1a
+                  https://desktopcommando.medium.com/how-to-use-emblemvault-14ba241ca42a
                 </a>
-                2) Directly on Counterparty XCP through dispensers or dex
-                orders, if available.
+                <br />
+                <a
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://desktopcommando.medium.com/trading-xcp-nfts-on-ethereum-matic-networks-87a89101fd58"
+                >
+                  https://desktopcommando.medium.com/trading-xcp-nfts-on-ethereum-matic-networks-87a89101fd58
+                </a>{" "}
+                <br />
+                Please follow
+                <a
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://twitter.com/CounterpartyXCP"
+                >
+                  https://twitter.com/CounterpartyXCP
+                </a>{" "}
+                and join their socials in order to learn more
               </div>
             </div>
           </div>

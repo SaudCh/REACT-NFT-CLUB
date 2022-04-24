@@ -21,39 +21,21 @@ function Header() {
           <img src={Logo} className="logo" alt="" />
         </Link>
         <div className="header-divider d-none d-md-block "></div>
-        <a
-          target="_blank"
-          rel="noreferrer"
-          href="https://twitter.com/CCGBTCONE"
-        >
-          <FontAwesomeIcon
-            className="d-none d-md-block ms-md-4"
-            icon={faTwitter}
-            color="white"
-          />
-        </a>
-        <a
-          target="_blank"
-          rel="noreferrer"
-          href="https://discord.com/invite/ccgbtcone"
-        >
-          <FontAwesomeIcon
-            className="d-none d-md-block ms-md-2"
-            icon={faDiscord}
-            color="white"
-          />
-        </a>
-        <a
-          target="_blank"
-          rel="noreferrer"
-          href="https://twitter.com/CCGBTCONE"
-        >
-          <FontAwesomeIcon
-            className="d-none d-md-block ms-md-2"
-            icon={faMedium}
-            color="white"
-          />
-        </a>
+        <FontAwesomeIcon
+          className="d-none d-md-block ms-md-4"
+          icon={faTwitter}
+          color="white"
+        />
+        <FontAwesomeIcon
+          className="d-none d-md-block ms-md-2"
+          icon={faDiscord}
+          color="white"
+        />
+        <FontAwesomeIcon
+          className="d-none d-md-block ms-md-2"
+          icon={faMedium}
+          color="white"
+        />
 
         <button
           class="navbar-toggler"
@@ -68,40 +50,6 @@ function Header() {
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://twitter.com/CCGBTCONE"
-            >
-              <FontAwesomeIcon
-                className="d-md-none"
-                icon={faTwitter}
-                color="white"
-              />
-            </a>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://discord.com/invite/ccgbtcone"
-            >
-              <FontAwesomeIcon
-                className="d-md-none"
-                icon={faDiscord}
-                color="white"
-              />
-            </a>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://medium.com/@coin_and_peace/history-of-vintage-nfts-in-japan-the-almost-forgotten-part-of-nft-history-5f15ce50a828"
-            >
-              <FontAwesomeIcon
-                className="d-md-none"
-                icon={faMedium}
-                color="white"
-              />
-            </a>
-
             <li class="nav-item">
               <a
                 class="nav-link text-white me-3"

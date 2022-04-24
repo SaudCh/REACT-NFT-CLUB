@@ -278,23 +278,23 @@ function Faq() {
             class="accordion-item mb-3"
             style={{ backgroundColor: "#29415e" }}
           >
-            <h2 class="accordion-header" id="flush-headingSix">
+            <h2 class="accordion-header" id="flush-headingFive">
               <button
                 class="accordion-button collapsed"
                 style={{ backgroundColor: "#29415e", color: "white" }}
                 type="button"
                 data-bs-toggle="collapse"
-                data-bs-target="#flush-collapseSix"
+                data-bs-target="#flush-collapseFive"
                 aria-expanded="false"
-                aria-controls="flush-collapseSix"
+                aria-controls="flush-collapseFive"
               >
                 How to buy?
               </button>
             </h2>
             <div
-              id="flush-collapseSix"
+              id="flush-collapseFive"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-collapseSix"
+              aria-labelledby="flush-collapseFour"
               data-bs-parent="#accordionFlushExample"
               style={{ backgroundColor: "#ffffff" }}
             >

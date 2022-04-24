@@ -292,7 +292,7 @@ function Faq() {
               </button>
             </h2>
             <div
-              id="flush-collapseSix"
+              id="flush-collapseFive"
               class="accordion-collapse collapse"
               aria-labelledby="flush-collapseSix"
               data-bs-parent="#accordionFlushExample"

@@ -5,9 +5,9 @@ function AboutUs() {
   return (
     <div>
       <div className="container-fluid mt-5" id="about">
-        <div className="row align-items-center">
+        <div className="row">
           <div className="col-1"></div>
-          <div className="col-12 col-md-5">
+          <div className="col-12 col-md-5 ">
             <img src={Image} alt="" style={{ width: "100%" }} />
           </div>
           <div className="col-12 col-md-5 d-flex flex-column text-white justify-content-center">

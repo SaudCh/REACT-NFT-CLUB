@@ -278,7 +278,7 @@ function Faq() {
             class="accordion-item mb-3"
             style={{ backgroundColor: "#29415e" }}
           >
-            <h2 class="accordion-header" id="flush-headingSix">
+            <h2 class="accordion-header" id="flush-headingFive">
               <button
                 class="accordion-button collapsed"
                 style={{ backgroundColor: "#29415e", color: "white" }}
@@ -292,7 +292,7 @@ function Faq() {
               </button>
             </h2>
             <div
-              id="flush-collapseSix"
+              id="flush-collapseFive"
               class="accordion-collapse collapse"
               aria-labelledby="flush-collapseSix"
               data-bs-parent="#accordionFlushExample"

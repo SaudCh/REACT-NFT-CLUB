@@ -26,53 +26,21 @@ function Footer() {
         <p>
           <a href="#about">About</a>
         </p>
-        <p>
-          <a href="#faq">Faq</a>
-        </p>
+        <p>Faq</p>
       </div>
       <div className="mt-5 mt-md-0 col-12 col-md-3 text-white d-flex justify-content-center flex-column align-items-center align-items-md-start">
         <h3>Socials</h3>
         <p>
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href="https://twitter.com/CCGBTCONE"
-          >
-            <FontAwesomeIcon
-              className="me-md-2"
-              icon={faTwitter}
-              color="white"
-            />{" "}
-            Twitter
-          </a>
+          <FontAwesomeIcon className="me-md-2" icon={faTwitter} color="white" />{" "}
+          Twitter
         </p>
         <p>
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href="https://discord.com/invite/ccgbtcone"
-          >
-            <FontAwesomeIcon
-              className="me-md-2"
-              icon={faDiscord}
-              color="white"
-            />{" "}
-            Discord
-          </a>
+          <FontAwesomeIcon className="me-md-2" icon={faDiscord} color="white" />{" "}
+          Discord
         </p>
         <p>
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href="https://medium.com/@coin_and_peace/history-of-vintage-nfts-in-japan-the-almost-forgotten-part-of-nft-history-5f15ce50a828"
-          >
-            <FontAwesomeIcon
-              className=" me-md-2"
-              icon={faMedium}
-              color="white"
-            />{" "}
-            Medium
-          </a>
+          <FontAwesomeIcon className=" me-md-2" icon={faMedium} color="white" />{" "}
+          Medium
         </p>
       </div>
     </footer>

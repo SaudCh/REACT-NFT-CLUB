@@ -38,7 +38,7 @@ function Crousal() {
           class="carousel slide"
           data-bs-ride="carousel"
         >
-          <div class="circle-container">
+          <div class=" circle-container">
             <button
               className="crousel-buttons active"
               type="button"

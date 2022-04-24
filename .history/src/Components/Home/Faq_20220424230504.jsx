@@ -273,61 +273,6 @@ function Faq() {
               </div>
             </div>
           </div>
-
-          <div
-            class="accordion-item mb-3"
-            style={{ backgroundColor: "#29415e" }}
-          >
-            <h2 class="accordion-header" id="flush-headingSix">
-              <button
-                class="accordion-button collapsed"
-                style={{ backgroundColor: "#29415e", color: "white" }}
-                type="button"
-                data-bs-toggle="collapse"
-                data-bs-target="#flush-collapseSix"
-                aria-expanded="false"
-                aria-controls="flush-collapseSix"
-              >
-                How to buy?
-              </button>
-            </h2>
-            <div
-              id="flush-collapseSix"
-              class="accordion-collapse collapse"
-              aria-labelledby="flush-collapseSix"
-              data-bs-parent="#accordionFlushExample"
-              style={{ backgroundColor: "#ffffff" }}
-            >
-              <div class="accordion-body">
-                Before you do that, please make sure to familiarise yourself
-                with how emblem vault and counterparty works. There are two ways
-                of buying CCGBTCONE :
-                <br />
-                1) On marketplaces like Opensea through Emblem Vault :
-                <br />
-                <a
-                  target="_blank"
-                  rel="noreferrer"
-                  href="https://opensea.io/collection/emblem-vault?search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Oasis%20Mining&search[stringTraits][0][values][0]=CCGBTCONE"
-                >
-                  https://opensea.io/collection/emblem-vault?search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Oasis%20Mining&search[stringTraits][0][values][0]=CCGBTCONE
-                </a>
-                <br />
-                <br />
-                Make sure to always properly check the vault before buying :
-                <br />
-                <a
-                  target="_blank"
-                  rel="noreferrer"
-                  href="https://desktopcommando.medium.com/a-buyers-guide-to-using-emblem-vault-on-opensea-io-bb0d0a206c1a"
-                >
-                  https://desktopcommando.medium.com/a-buyers-guide-to-using-emblem-vault-on-opensea-io-bb0d0a206c1a
-                </a>
-                2) Directly on Counterparty XCP through dispensers or dex
-                orders, if available.
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>

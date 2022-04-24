@@ -33,18 +33,8 @@ function Footer() {
       <div className="mt-5 mt-md-0 col-12 col-md-3 text-white d-flex justify-content-center flex-column align-items-center align-items-md-start">
         <h3>Socials</h3>
         <p>
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href="https://twitter.com/CCGBTCONE"
-          >
-            <FontAwesomeIcon
-              className="me-md-2"
-              icon={faTwitter}
-              color="white"
-            />{" "}
-            Twitter
-          </a>
+          <FontAwesomeIcon className="me-md-2" icon={faTwitter} color="white" />{" "}
+          Twitter
         </p>
         <p>
           <a

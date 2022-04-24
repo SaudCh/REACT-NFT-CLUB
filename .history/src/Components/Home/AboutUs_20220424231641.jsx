@@ -8,7 +8,7 @@ function AboutUs() {
         <div className="row align-items-center">
           <div className="col-1"></div>
           <div className="col-12 col-md-5">
-            <img src={Image} alt="" style={{ width: "100%" }} />
+            <img src={Image} alt="" style={{ width: "10%" }} />
           </div>
           <div className="col-12 col-md-5 d-flex flex-column text-white justify-content-center">
             <p className="p-0 m-0" style={{ fontSize: 15 }}>

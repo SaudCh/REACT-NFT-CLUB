@@ -32,13 +32,13 @@ function Crousal() {
         </div>
       </div>
       {/* Buttons  */}
-      <div className="col-4 col-md-2 col-lg-2 col-xl-1 m-auto">
+      <div className="col-4 col-md-3 col-lg-1 m-auto">
         <div
           id="carouselExampleIndicators"
           class="carousel slide"
           data-bs-ride="carousel"
         >
-          <div class="circle-container">
+          <div class=" circle-container">
             <button
               className="crousel-buttons active"
               type="button"

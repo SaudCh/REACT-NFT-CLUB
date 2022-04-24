@@ -5,6 +5,10 @@
   margin-left: 10px;
   border-radius: 50%;
 }
+.circle-container {
+  position: absolute;
+  bottom: -10;
+}
 .cr-image {
   height: 50vh;
   margin: auto;

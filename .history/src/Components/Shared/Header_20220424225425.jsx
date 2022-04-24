@@ -85,7 +85,7 @@ function Header() {
               href="https://discord.com/invite/ccgbtcone"
             >
               <FontAwesomeIcon
-                className="d-md-none"
+                className="d-md-none ms-md-2"
                 icon={faDiscord}
                 color="white"
               />
@@ -93,10 +93,10 @@ function Header() {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://medium.com/@coin_and_peace/history-of-vintage-nfts-in-japan-the-almost-forgotten-part-of-nft-history-5f15ce50a828"
+              href="https://twitter.com/CCGBTCONE"
             >
               <FontAwesomeIcon
-                className="d-md-none"
+                className="d-none d-md-block ms-md-2"
                 icon={faMedium}
                 color="white"
               />

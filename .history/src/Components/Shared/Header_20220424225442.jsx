@@ -93,7 +93,7 @@ function Header() {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://medium.com/@coin_and_peace/history-of-vintage-nfts-in-japan-the-almost-forgotten-part-of-nft-history-5f15ce50a828"
+              href="https://twitter.com/CCGBTCONE"
             >
               <FontAwesomeIcon
                 className="d-md-none"
