@@ -19,7 +19,7 @@ function AuthenticDesign() {
               creators of <br />
               CCGBTCONE?
             </h2>
-            <p className="text-desc">
+            <p>
               The Japanese people behind the crypto currency girls series, which
               have turned some of the world's largest cryptocurrencies into
               anime characters, are also the creators of CCGBTCONE.

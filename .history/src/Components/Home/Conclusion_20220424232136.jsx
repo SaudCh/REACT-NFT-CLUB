@@ -12,12 +12,12 @@ function Conclusion() {
             <p className="p-0 m-0" style={{ fontSize: 15 }}>
               CONCLUSION
             </p>
-            <h2 style={{ fontSize: 50 }}>
+            <h2 style={{ fontSize: 40 }}>
               What does
               <br />
               it all mean?
             </h2>
-            <p className="text-desc">
+            <p>
               While we can only speculate if Elon Musk owns one or not, there
               will be only 300 of these available at any point in time. The fact
               that this NFT was involved in bitcoin related posts and was minted

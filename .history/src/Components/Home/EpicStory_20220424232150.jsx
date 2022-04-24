@@ -12,7 +12,7 @@ function EpicStory() {
             <p className="p-0 m-0" style={{ fontSize: 15 }}>
               EPIC STORY
             </p>
-            <h2 style={{ fontSize: 50 }}>
+            <h2 style={{ fontSize: 40 }}>
               Elon Musk’s
               <br />
               involvement

@@ -12,12 +12,12 @@ function EpicStory() {
             <p className="p-0 m-0" style={{ fontSize: 15 }}>
               EPIC STORY
             </p>
-            <h2 style={{ fontSize: 50 }}>
+            <h2 style={{ fontSize: 40 }}>
               Elon Musk’s
               <br />
               involvement
             </h2>
-            <p className="text-desc">
+            <p>
               The first time it was used by Elon was in October 2018 in a tweet
               exchange with @Grimezsz. His account was even locked by Twitter,
               thinking hackers got control of his account.

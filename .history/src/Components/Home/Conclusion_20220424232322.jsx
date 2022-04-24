@@ -12,7 +12,7 @@ function Conclusion() {
             <p className="p-0 m-0" style={{ fontSize: 15 }}>
               CONCLUSION
             </p>
-            <h2 style={{ fontSize: 50 }}>
+            <h2 style={{ fontSize: 40 }}>
               What does
               <br />
               it all mean?

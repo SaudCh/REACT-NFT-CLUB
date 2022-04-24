@@ -14,12 +14,12 @@ function AboutUs() {
             <p className="p-0 m-0" style={{ fontSize: 15 }}>
               ABOUT US
             </p>
-            <h2 style={{ fontSize: 50 }}>
+            <h2 style={{ fontSize: 40 }}>
               Welcome to <br />
               CCGBTCONE <br />
               NFT Club
             </h2>
-            <p className="text-desc">
+            <p>
               Welcome to CCGBTCONE NFT Club. CCGBTCONE is a vintage collectible
               minted July 26th 2017 on the Bitcoin blockchain through the
               Counterparty protocol. It's part of the Oasis Mining collection

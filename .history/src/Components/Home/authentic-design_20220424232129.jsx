@@ -14,12 +14,12 @@ function AuthenticDesign() {
             <p className="p-0 m-0" style={{ fontSize: 15 }}>
               AUTHENTIC DESIGN
             </p>
-            <h2 style={{ fontSize: 50 }}>
+            <h2 style={{ fontSize: 40 }}>
               Who are the <br />
               creators of <br />
               CCGBTCONE?
             </h2>
-            <p className="text-desc">
+            <p>
               The Japanese people behind the crypto currency girls series, which
               have turned some of the world's largest cryptocurrencies into
               anime characters, are also the creators of CCGBTCONE.

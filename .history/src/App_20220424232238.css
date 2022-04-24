@@ -1,0 +1,16 @@
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+
+.accordion a{
+  color: #007bff!important;
+}
+
+.text-desc{
+  font-weight: 0;
+  font-size: 12px;
+}

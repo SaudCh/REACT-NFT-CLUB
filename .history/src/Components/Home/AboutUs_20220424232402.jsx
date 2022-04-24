@@ -19,7 +19,7 @@ function AboutUs() {
               CCGBTCONE <br />
               NFT Club
             </h2>
-            <p className="text-desc">
+            <p>
               Welcome to CCGBTCONE NFT Club. CCGBTCONE is a vintage collectible
               minted July 26th 2017 on the Bitcoin blockchain through the
               Counterparty protocol. It's part of the Oasis Mining collection
