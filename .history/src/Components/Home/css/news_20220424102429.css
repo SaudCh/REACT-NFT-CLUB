@@ -1,8 +1,0 @@
-.news-container {
-  height: 80vh;
-}
-.heading-gredient {
-  background: -webkit-linear-gradient(to right, #eee, #333);
-  /* -webkit-background-clip: text; */
-  -webkit-text-fill-color: transparent;
-}

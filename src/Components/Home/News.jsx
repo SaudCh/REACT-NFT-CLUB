@@ -30,9 +30,9 @@ function News() {
             <br />
             as well as Elon’s interests in it over the years.
           </p>
-          <div className="row">
-            <div className="col-2"></div>
-            <div className="col-2">
+          <div className="row align-items-center justify-content-center">
+            
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -42,7 +42,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-2">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -52,7 +52,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-2">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -62,7 +62,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-2">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -72,10 +72,9 @@ function News() {
               </a>
             </div>
           </div>
-          <div className="row mt-5">
-            <div className="col-2"></div>
-
-            <div className="col-2">
+          <div className="row mt-5  align-items-center justify-content-center">
+      
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -85,7 +84,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-2">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -95,7 +94,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-2">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -105,7 +104,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-2">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -116,10 +115,8 @@ function News() {
             </div>
           </div>
 
-          <div className="row mt-5 mb-5">
-            <div className="col-2"></div>
-
-            <div className="col-2">
+          <div className="row mt-5 mb-5 align-items-center justify-content-center">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -129,7 +126,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-2">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -139,7 +136,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-2">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -149,7 +146,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-2">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
