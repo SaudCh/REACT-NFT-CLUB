@@ -10,7 +10,7 @@
   position: absolute;
   bottom: -10;
 }
-.cr-image {
+.cr-image{
   height: 50vh;
-  margin: auto;
+  width: 50vh;
 }

@@ -15,7 +15,7 @@ function Crousal() {
           class="carousel slide"
           data-bs-ride="carousel"
         >
-          <div class="carousel-inner text-center">
+          <div class="carousel-inner text-center border">
             <div class="carousel-item active">
               <img src={post1} class="d-block cr-image" alt="..." />
             </div>
@@ -23,10 +23,10 @@ function Crousal() {
               <img src={post2} class="d-block cr-image" alt="..." />
             </div>
             <div class="carousel-item">
-              <img src={post3} class="d-block cr-image" alt="..." />
+              <img src={post3} class="d-block w-100 cr-image" alt="..." />
             </div>
             <div class="carousel-item">
-              <img src={post4} class="d-block cr-image" alt="..." />
+              <img src={post4} class="d-block w-100 cr-image" alt="..." />
             </div>
           </div>
         </div>

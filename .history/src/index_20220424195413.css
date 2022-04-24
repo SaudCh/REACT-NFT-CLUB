@@ -1,18 +1,15 @@
 @font-face {
   font-family: "Lato";
   font-weight: 900;
-  src: local("Lato"),
-    url(./Components/fonts/chronicapro-bold.ttf) format("truetype");
+  src: local("Lato"), url(./Components/fonts/chronicapro-bold.ttf) format("truetype");
 }
 
 body {
   margin: 0;
-  font-family: Lato, Arial, serif;
+  font-family: "chronica", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-*{
-  font-family: Lato;
 }
 
 code {

@@ -12,5 +12,6 @@
 }
 .cr-image {
   height: 50vh;
-  margin: auto;
+  align-self: center;
+  text-align: center;
 }

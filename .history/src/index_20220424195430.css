@@ -11,9 +11,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-*{
-  font-family: Lato;
-}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
