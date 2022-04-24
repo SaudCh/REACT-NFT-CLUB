@@ -12,10 +12,7 @@ import { Link } from "react-router-dom";
 
 function Header() {
   return (
-    <nav
-      class="navbar navbar-expand-lg navbar-dark header"
-      style={{ zIndex: 100, position: "relative" }}
-    >
+    <nav class="navbar navbar-expand-lg navbar-dark header">
       <div class="container-fluid" style={{ backgroundColor: "black" }}>
         <Link class="navbar-brand ms-0 ms-md-4" to="/">
           <img src={Logo} className="logo" alt="" />
@@ -48,7 +45,11 @@ function Header() {
         >
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div
+          class="collapse navbar-collapse"
+          id="navbarSupportedContent"
+          style={{ zIndex: 100, position: "relative" }}
+        >
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             <li class="nav-item">
               <a
