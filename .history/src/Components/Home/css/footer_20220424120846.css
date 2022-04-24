@@ -1,0 +1,10 @@
+footer {
+  background-color: black;
+  min-height: 30vh;
+}
+.footer-heading {
+  background-clip: text;
+  background: linear-gradient(to right, #f2842f, #ffce29);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

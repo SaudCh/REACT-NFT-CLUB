@@ -1,0 +1,10 @@
+.crousel-buttons {
+  border: 1px solid white;
+  height: 8px;
+  width: 5px;
+  border-radius: 20px;
+}
+.circle-container {
+  /* position: absolute;
+    left: 10; */
+}

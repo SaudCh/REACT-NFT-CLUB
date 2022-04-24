@@ -1,0 +1,47 @@
+.bitcoin-section {
+  background-color: black;
+  border-radius: 20px;
+  min-height: 25vh;
+}
+.bitcoin-container {
+  position: relative;
+}
+.bitcoin-img {
+  position: absolute;
+  top: -46px;
+  height: 35vh;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+.anime-img {
+  position: absolute;
+  top: -30px;
+  height: 35vh;
+  left: 50%;
+  transform: translate(-65%, 0);
+  filter: drop-shadow(10px 10px 5px);
+}
+.elon-img {
+  position: absolute;
+  top: -30px;
+  width: 200px;
+  left: 15px;
+}
+.elon-post1-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.post1-img {
+  width: 230px;
+  margin-top: 22px;
+  margin-left: 150px;
+}
+
+@media screen and (max-width: 400px) {
+  .logo {
+    width: 250px;
+    height: 100px;
+  }
+}

@@ -1,0 +1,8 @@
+.video-section {
+    height: 50vh;
+    border: 5px solid black;
+    overflow: hidden;
+}
+.video{
+    /* display: none; */
+}

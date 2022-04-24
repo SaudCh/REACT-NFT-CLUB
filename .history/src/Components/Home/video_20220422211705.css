@@ -1,0 +1,12 @@
+.video-section {
+  height: 50vh;
+  border: 5px solid black;
+  overflow: hidden;
+  display: flex;
+}
+/* .video {
+  display: none;
+  margin: 0;
+  border: 1px solid black;
+} 
+*/
