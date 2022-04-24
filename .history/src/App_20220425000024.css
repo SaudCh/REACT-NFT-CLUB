@@ -13,10 +13,10 @@ a:hover {
 .text-desc {
   font-weight: normal;
   font-style: italic;
-  font-size: 15;
-  line-height: 20pt;
+  font-size: 17px;
+  line-height: 30pt;
   font-family: chronicalight;
 }
 .heading-sec{
-  font-size: 50px;
+  font-size: 68pt;
 }

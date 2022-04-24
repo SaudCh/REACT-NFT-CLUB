@@ -17,7 +17,7 @@ function AuthenticDesign() {
             >
               AUTHENTIC DESIGN
             </p>
-            <h2 className="heading-sec">
+            <h2 style={{ fontSize: 68,lineHeight:72 }}>
               Who are the <br />
               creators of <br />
               CCGBTCONE?

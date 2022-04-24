@@ -17,7 +17,7 @@ function AuthenticDesign() {
             >
               AUTHENTIC DESIGN
             </p>
-            <h2 className="heading-sec">
+            <h2 style={{ fontSize: 68 }}>
               Who are the <br />
               creators of <br />
               CCGBTCONE?
@@ -26,6 +26,7 @@ function AuthenticDesign() {
               The Japanese people behind the crypto currency girls series, which
               have turned some of the world's largest cryptocurrencies into
               anime characters, are also the creators of CCGBTCONE.
+              <br />
               <br />A total of three cards from their series, were added to the
               Oasis Mining curated collection back in 2017."
             </p>
