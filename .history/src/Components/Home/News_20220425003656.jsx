@@ -43,31 +43,19 @@ function News() {
             </div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://www.forbes.com/sites/billybambrough/2018/10/23/elon-musk-mocks-bitcoin-security-and-scams-with-tongue-in-cheek-tweet/?sh=3a53d0f42184"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={forbes} alt="" />
               </a>
             </div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://au.finance.yahoo.com/news/elon-musk-sends-adult-themed-112320398.html"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={yahoo} alt="" />
               </a>
             </div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://www.marketwatch.com/story/lasereyes-meme-campaign-goes-viral-on-twitter-in-apparent-bid-to-double-bitcoin-price-to-100-000-11614107554"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={market} alt="" />
               </a>
             </div>
@@ -76,41 +64,25 @@ function News() {
             <div className="col-2"></div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://u.today/elon-musk-changes-his-twitter-profile-pic-to-bitcoin"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={utoday} alt="" />
               </a>
             </div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://cryptonewsreview.com/elon-musks-twitter-account-locked-after-cryptocurrency-tweet/"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={cnew1} alt="" />
               </a>
             </div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://cryptonews.net/news/bitcoin/472907/"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={cnews2} alt="" />
               </a>
             </div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://www.cryptoglobe.com/latest/2018/10/elon-musk-tweets-about-bitcoin-gets-account-locked/"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={globe} alt="" />
               </a>
             </div>
@@ -120,41 +92,25 @@ function News() {
             <div className="col-2"></div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://coingape.com/elon-musk-changes-his-profile-pic-with-bitcoin-anime-btc-price-crosses-55k/"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={gape} alt="" />
               </a>
             </div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://www.techtimes.com/articles/261095/20210604/elon-musk-changes-twitter-dp-triggered-crypto-woman-targeting-fans-cryptocurrency.htm"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={yellowBlue} alt="" />
               </a>
             </div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://www.trustnodes.com/2018/10/23/elon-musk-offers-bitcoin-grimes-says-she-likes-eth-twitter-bans-hacks"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={trustnodes} alt="" />
               </a>
             </div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://thesillytv.com/heres-why-elon-musk-casey-neistat-and-other-bitcoin-advocates-have-laser-eyes-in-their-twitter-profiles/"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={theSilly} alt="" />
               </a>
             </div>

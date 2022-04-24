@@ -140,21 +140,13 @@ function News() {
             </div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://www.trustnodes.com/2018/10/23/elon-musk-offers-bitcoin-grimes-says-she-likes-eth-twitter-bans-hacks"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={trustnodes} alt="" />
               </a>
             </div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://thesillytv.com/heres-why-elon-musk-casey-neistat-and-other-bitcoin-advocates-have-laser-eyes-in-their-twitter-profiles/"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={theSilly} alt="" />
               </a>
             </div>

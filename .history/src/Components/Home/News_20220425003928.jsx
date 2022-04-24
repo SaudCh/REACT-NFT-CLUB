@@ -150,11 +150,7 @@ function News() {
             </div>
 
             <div className="col-2">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://thesillytv.com/heres-why-elon-musk-casey-neistat-and-other-bitcoin-advocates-have-laser-eyes-in-their-twitter-profiles/"
-              >
+              <a target="_blank" rel="noreferrer" href="#h">
                 <img src={theSilly} alt="" />
               </a>
             </div>
