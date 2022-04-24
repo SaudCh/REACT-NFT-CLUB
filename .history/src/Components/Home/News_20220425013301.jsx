@@ -32,7 +32,7 @@ function News() {
           </p>
           <div className="row align-items-center justify-content-center">
             
-            <div className="col-5 col-md-2 me-3">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -42,7 +42,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-5 col-md-2 me-3">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -52,7 +52,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-5 col-md-2 me-3">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -62,7 +62,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-5 col-md-2 me-3">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -74,7 +74,7 @@ function News() {
           </div>
           <div className="row mt-5  align-items-center justify-content-center">
       
-            <div className="col-5 col-md-2 me-3">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -84,7 +84,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-5 col-md-2 me-3">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -94,7 +94,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-5 col-md-2 me-3">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -104,7 +104,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-5 col-md-2 me-3">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -116,7 +116,7 @@ function News() {
           </div>
 
           <div className="row mt-5 mb-5 align-items-center justify-content-center">
-            <div className="col-5 col-md-2 me-3">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -126,7 +126,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-5 col-md-2 me-3">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -136,7 +136,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-5 col-md-2 me-3">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -146,7 +146,7 @@ function News() {
               </a>
             </div>
 
-            <div className="col-5 col-md-2 me-3">
+            <div className="col-2 me-3">
               <a
                 target="_blank"
                 rel="noreferrer"
