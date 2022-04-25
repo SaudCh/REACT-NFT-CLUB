@@ -23,7 +23,7 @@ function News() {
             style={{ fontSize: 50 }}
           >
             <strong>
-              <span className="heading-gredient">
+              <span className="heading-gredient" style={{ fontWeight: "bold" }}>
                 CCGBTCONE
               </span>{" "}
               IN THE NEWS
