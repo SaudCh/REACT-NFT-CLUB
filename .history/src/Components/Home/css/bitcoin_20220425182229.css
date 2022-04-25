@@ -12,8 +12,8 @@
 }
 .bitcoin-img {
   position: absolute;
-  top: -80px;
-  height: 50vh;
+  top: -30px;
+  height: 40vh;
   left: 50%;
   transform: translate(-50%, 0);
 }
