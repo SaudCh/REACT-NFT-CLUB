@@ -4,7 +4,7 @@ import "./css/faq.css";
 function Faq() {
   return (
     <div className="row justify-content-center my-5 py-5" id="faq">
-      <h2 className="text-white text-center mb-4" style={{ fontFamily: "Lato",fontSize:40 }}>
+      <h2 className="text-white text-center mb-4" style={{ fontFamily: "Lato",fontSize:32 }}>
         FAQ
       </h2>
       <div className="col-10">

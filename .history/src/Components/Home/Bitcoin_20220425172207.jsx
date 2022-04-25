@@ -17,14 +17,14 @@ function Bitcoin() {
 
           <div className="row bt-sec">
 
-            <div className="col-12 col-md-1 elon-post1-container">
+            <div className="col-12 col-md-2 elon-post1-container">
               <img src={elon} className="elon-img" alt="" />
               {/* <img src={post1} className="post1-img d-none " alt="" /> */}
             </div>
 
 
             <div
-              className="col-12 bitcoin-flex col-md-3 ps-5 m-auto"
+              className="col-12 bitcoin-flex col-md-2 m-auto"
               //style={{ marginTop: 150 }}
             >
               <img src={post1} className="post2-img" alt="" />

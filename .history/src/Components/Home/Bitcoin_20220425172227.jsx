@@ -24,7 +24,7 @@ function Bitcoin() {
 
 
             <div
-              className="col-12 bitcoin-flex col-md-3 ps-5 m-auto"
+              className="col-12 bitcoin-flex col-md-2 m-auto"
               //style={{ marginTop: 150 }}
             >
               <img src={post1} className="post2-img" alt="" />

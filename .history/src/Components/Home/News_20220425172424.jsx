@@ -21,7 +21,7 @@ function News() {
           <h1 className="text-white text-center news-heading">
             <span className="heading-gredient">CCGBTCONE</span> IN THE NEWS
           </h1>
-          <p className="text-white text-center mb-5">
+          <p className="text-white text-center">
             CCGBTCONE has been featured in well-known online publications due to
             its historical impact and significance.
             <br />

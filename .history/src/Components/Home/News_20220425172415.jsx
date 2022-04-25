@@ -21,12 +21,12 @@ function News() {
           <h1 className="text-white text-center news-heading">
             <span className="heading-gredient">CCGBTCONE</span> IN THE NEWS
           </h1>
-          <p className="text-white text-center mb-5">
+          <p className="text-white text-center">
             CCGBTCONE has been featured in well-known online publications due to
-            its historical impact and significance.
-            <br />
-            These articles clearly depict the great potential of this NFT
-            collection as a historical piece
+            its historical impact and significance.<br />These articles clearly{" "}
+            
+            depict the great potential of this NFT collection as a historical
+            piece
             <br />
             as well as Elon’s interests in it over the years.
           </p>
