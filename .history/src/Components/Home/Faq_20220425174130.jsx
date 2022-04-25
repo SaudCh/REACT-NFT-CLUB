@@ -4,7 +4,7 @@ import "./css/faq.css";
 function Faq() {
   return (
     <div className="row justify-content-center my-5 py-5" id="faq">
-      <h2 className="text-white text-center mb-4" style={{ fontSize:40 }}>
+      <h2 className="text-white text-center mb-4" style={{ fontFamily: "Lato",fontSize:40 }}>
         FAQ
       </h2>
       <div className="col-10">
@@ -47,7 +47,7 @@ function Faq() {
             class="accordion-item mb-3 "
             style={{ backgroundColor: "#29415e" }}
           >
-            <h3 class="accordion-header" id="flush-headingTwo">
+            <h2 class="accordion-header" id="flush-headingTwo">
               <button
                 class="accordion-button collapsed"
                 style={{ backgroundColor: "#29415e", color: "white" }}
@@ -59,7 +59,7 @@ function Faq() {
               >
                 When was it used by Elon Musk (proof)?
               </button>
-            </h3>
+            </h2>
             <div
               id="flush-collapseTwo"
               class="accordion-collapse collapse"
@@ -115,7 +115,7 @@ function Faq() {
             class="accordion-item mb-3"
             style={{ backgroundColor: "#29415e" }}
           >
-            <h3 class="accordion-header" id="flush-headingThree">
+            <h2 class="accordion-header" id="flush-headingThree">
               <button
                 class="accordion-button collapsed"
                 style={{ backgroundColor: "#29415e", color: "white" }}
@@ -127,7 +127,7 @@ function Faq() {
               >
                 On which blockchain is the CCGBTCONE collectible located?
               </button>
-            </h3>
+            </h2>
             <div
               id="flush-collapseThree"
               class="accordion-collapse collapse"
@@ -157,7 +157,7 @@ function Faq() {
             class="accordion-item mb-3"
             style={{ backgroundColor: "#29415e" }}
           >
-            <h3 class="accordion-header" id="flush-headingThree">
+            <h2 class="accordion-header" id="flush-headingThree">
               <button
                 class="accordion-button collapsed"
                 style={{ backgroundColor: "#29415e", color: "white" }}
@@ -169,7 +169,7 @@ function Faq() {
               >
                 What is counterparty and how to use it?
               </button>
-            </h3>
+            </h2>
             <div
               id="flush-collapseFour"
               class="accordion-collapse collapse"
@@ -219,7 +219,7 @@ function Faq() {
             class="accordion-item mb-3"
             style={{ backgroundColor: "#29415e" }}
           >
-            <h3 class="accordion-header" id="flush-headingFive">
+            <h2 class="accordion-header" id="flush-headingFive">
               <button
                 class="accordion-button collapsed"
                 style={{ backgroundColor: "#29415e", color: "white" }}
@@ -231,7 +231,7 @@ function Faq() {
               >
                 What is emblem vault and how to use it?
               </button>
-            </h3>
+            </h2>
             <div
               id="flush-collapseFive"
               class="accordion-collapse collapse"
@@ -281,7 +281,7 @@ function Faq() {
             class="accordion-item mb-3"
             style={{ backgroundColor: "#29415e" }}
           >
-            <h3 class="accordion-header" id="flush-headingSix">
+            <h2 class="accordion-header" id="flush-headingSix">
               <button
                 class="accordion-button collapsed"
                 style={{ backgroundColor: "#29415e", color: "white" }}
@@ -293,7 +293,7 @@ function Faq() {
               >
                 How to buy?
               </button>
-            </h3>
+            </h2>
             <div
               id="flush-collapseSix"
               class="accordion-collapse collapse"

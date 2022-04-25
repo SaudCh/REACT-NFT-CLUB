@@ -126,14 +126,14 @@ function Header() {
                 FAQ
               </a>
             </li>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://opensea.io/collection/emblem-vault?search%5BsortAscending%5D=true&search%5BsortBy%5D=PRICE&search%5BstringTraits%5D%5B0%5D%5Bname%5D=Oasis%20Mining&search%5BstringTraits%5D%5B0%5D%5Bvalues%5D%5B0%5D=CCGBTCONE"
-              className="header-button p-2 me-md-5 text-dark"
-            >
-              Buy on Opensea
-            </a>
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://opensea.io/collection/emblem-vault?search%5BsortAscending%5D=true&search%5BsortBy%5D=PRICE&search%5BstringTraits%5D%5B0%5D%5Bname%5D=Oasis%20Mining&search%5BstringTraits%5D%5B0%5D%5Bvalues%5D%5B0%5D=CCGBTCONE"
+                className="header-button p-2 me-md-5 text-dark"
+              >
+                Buy on Opensea
+              </a>
           </ul>
         </div>
       </div>

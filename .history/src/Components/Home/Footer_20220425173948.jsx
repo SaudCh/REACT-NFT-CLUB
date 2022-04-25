@@ -20,19 +20,19 @@ function Footer() {
       </div>
       <div className="mt-5 mt-md-0 col-12 col-md-3 text-white d-flex justify-content-center flex-column align-items-center align-items-md-start">
         <h3>Useful Links</h3>
-        <p className="mt-3">
+        <p>
           <a href="#home">Home</a>
         </p>
-        <p className="mt-3">
+        <p>
           <a href="#about">About</a>
         </p>
-        <p className="mt-3">
+        <p>
           <a href="#faq">FAQ</a>
         </p>
       </div>
       <div className="mt-5 mt-md-0 col-12 col-md-3 text-white d-flex justify-content-center flex-column align-items-center align-items-md-start">
         <h3>Socials</h3>
-        <p className="mt-3">
+        <p>
           <a
             target="_blank"
             rel="noreferrer"
@@ -46,7 +46,7 @@ function Footer() {
             Twitter
           </a>
         </p>
-        <p className="mt-3">
+        <p>
           <a
             target="_blank"
             rel="noreferrer"
@@ -60,7 +60,7 @@ function Footer() {
             Discord
           </a>
         </p>
-        <p className="mt-3">
+        <p>
           <a
             target="_blank"
             rel="noreferrer"

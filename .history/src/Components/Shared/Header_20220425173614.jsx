@@ -67,7 +67,7 @@ function Header() {
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0 align-items-center">
             <a
               target="_blank"
               rel="noreferrer"
@@ -126,14 +126,16 @@ function Header() {
                 FAQ
               </a>
             </li>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://opensea.io/collection/emblem-vault?search%5BsortAscending%5D=true&search%5BsortBy%5D=PRICE&search%5BstringTraits%5D%5B0%5D%5Bname%5D=Oasis%20Mining&search%5BstringTraits%5D%5B0%5D%5Bvalues%5D%5B0%5D=CCGBTCONE"
-              className="header-button p-2 me-md-5 text-dark"
-            >
-              Buy on Opensea
-            </a>
+            <li>
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://opensea.io/collection/emblem-vault?search%5BsortAscending%5D=true&search%5BsortBy%5D=PRICE&search%5BstringTraits%5D%5B0%5D%5Bname%5D=Oasis%20Mining&search%5BstringTraits%5D%5B0%5D%5Bvalues%5D%5B0%5D=CCGBTCONE"
+                className="header-button p-2 me-md-5 text-dark"
+              >
+                Buy on Opensea
+              </a>
+            </li>
           </ul>
         </div>
       </div>
