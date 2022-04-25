@@ -3,10 +3,8 @@ import "./css/faq.css";
 
 function Faq() {
   return (
-    <div className="row justify-content-center my-5 py-5" id="faq">
-      <h2 className="text-white text-center" style={{ fontFamily: "Lato" }}>
-        FAQ
-      </h2>
+    <div className="row justify-content-center mt-5" id="faq">
+      <h2 className="text-white text-center">FAQ</h2>
       <div className="col-10">
         <div class="accordion accordion-flush" id="accordionFlushExample">
           <div

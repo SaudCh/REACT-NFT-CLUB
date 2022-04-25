@@ -9,7 +9,7 @@ function Bitcoin() {
   return (
     <div
       className=""
-      style={{ zIndex: 2, position: "relative", marginTop: 20 }}
+      style={{ zIndex: 2, position: "relative", marginTop: 30 }}
     >
       <section className=" pt-5">
 
