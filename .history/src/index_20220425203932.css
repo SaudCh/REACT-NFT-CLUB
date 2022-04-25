@@ -9,7 +9,7 @@
   font-family: "chronicalight";
   font-weight: 900;
   src: local("chronicalight"),
-    url(./Components/fonts/ChronicaPro-Regular.ttf) format("truetype");
+    url(./Components/fonts/ChronicaPro-Medium.ttf) format("truetype");
 }
 
 body {

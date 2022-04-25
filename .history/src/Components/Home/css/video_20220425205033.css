@@ -12,9 +12,9 @@
 
 .videourl {
   background-image: url("../../Images/video-back.png");
-  background-position: center; 
-  background-repeat: no-repeat;
-  background-size: 75% 75%;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: 80% 80%;
 }
 
 .video-image {

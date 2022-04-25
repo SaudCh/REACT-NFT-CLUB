@@ -3,23 +3,21 @@
   margin: 0;
 }
 .heading-gredient {
-  font-weight: bold;
   background-clip: text;
   background: linear-gradient(to right, #f2842f, #ffce29);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-family: Lato;
 }
 .news-heading {
   font-weight: bold;
   margin-top: 10px;
-  font-family: Lato;
 }
-.news-img-container {
+.news-img-container{
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
 
 @media screen and (max-width: 500px) {
   .news-image {

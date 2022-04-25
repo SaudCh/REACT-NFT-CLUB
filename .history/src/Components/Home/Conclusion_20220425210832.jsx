@@ -4,10 +4,7 @@ import Image from "../Images/conclusion-back.png";
 function Conclusion() {
   return (
     <div>
-      <div
-        className="container-fluid"
-        style={{ marginTop: 100, marginBottom: 100 }}
-      >
+      <div className="container-fluid" style={{ marginTop: 100, marginBottom: 100 }}>
         <div className="row align-items-center flex-column-reverse flex-md-row">
           <div className="col-1"></div>
 
@@ -35,7 +32,6 @@ function Conclusion() {
               unclear, however, on March 15th 2021, he made this post with a
               cool art that was not minted on the blockchain by him.
               <br />
-              <div className="my-2"></div>
               Even though he didn't explicitly disclose that he holds one, he
               did use CCGBTCONE in many posts and as his PFP, clearly proving he
               likes it. He could proudly own one, and in case he doesn't, we can

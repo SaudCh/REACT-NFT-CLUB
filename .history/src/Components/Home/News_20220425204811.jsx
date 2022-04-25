@@ -22,7 +22,7 @@ function News() {
             className="text-white text-center news-heading"
             style={{ fontSize: 50 }}
           >
-            <span className="heading-gredient">CCGBTCONE</span> IN THE NEWS
+            <span className="heading-gredient">CCGBTCONE</span> IN THE NEWSQ
           </h1>
           <p className="text-white text-center mb-5" style={{ fontSize: 15 }}>
             CCGBTCONE has been featured in well-known online publications due to

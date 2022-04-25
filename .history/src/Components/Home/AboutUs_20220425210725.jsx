@@ -28,8 +28,6 @@ function AboutUs() {
               Counterparty protocol. It's part of the Oasis Mining collection
               which consists of 66 different cards from different artists.
               <br />
-              <div className="my-2"></div>
-
               It's one of the first Waifu NFT's minted on the blockchain and was
               used in multiple occasions by Elon Musk in his Twitter posts and
               even as his PFP.
