@@ -36,6 +36,8 @@
 }
 .post1-img {
   width: 115%;
+  margin: auto 0;
+  margin-left: 110px;
 }
 .post2-img {
   width: 90%;

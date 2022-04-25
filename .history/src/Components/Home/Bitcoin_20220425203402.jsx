@@ -12,19 +12,24 @@ function Bitcoin() {
       style={{ zIndex: 2, position: "relative", marginTop: 20 }}
     >
       <section className=" pt-5">
+
         <div className="col-12 col-md-8 bitcoin-section p-0 m-auto">
+
           <div className="row bt-sec">
+
             <div className="col-12 col-md-1 elon-post1-container">
               <img src={elon} className="elon-img" alt="" />
               {/* <img src={post1} className="post1-img d-none " alt="" /> */}
             </div>
 
+
             <div
-              className="col-12 bitcoin-flex col-md-3 m-auto"
+              className="col-12 bitcoin-flex col-md-3 ms-2 ms-md-0 ps-5 m-auto"
               //style={{ marginTop: 150 }}
             >
-              <img src={post1} className="post1-img ms-2" alt="" />
+              <img src={post1} className="post2-img" alt="" />
             </div>
+
 
             <div className="col-12 col-md-4 bitcoin-container bitcoin-flex">
               <img src={BitcoinImg} className="bitcoin-img" alt="" />
