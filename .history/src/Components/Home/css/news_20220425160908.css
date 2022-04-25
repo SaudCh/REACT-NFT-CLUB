@@ -1,0 +1,24 @@
+.news-container {
+  background-color: black;
+  margin: 0;
+}
+.heading-gredient {
+  background-clip: text;
+  background: linear-gradient(to right, #f2842f, #ffce29);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.news-heading {
+  font-weight: bold;
+  margin-top: 10px;
+}
+.news-img-container{
+  margin:0 100px;
+}
+
+
+@media screen and (max-width: 500px) {
+  .news-image {
+    width: 90%;
+  }
+}
