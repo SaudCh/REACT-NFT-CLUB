@@ -13,7 +13,7 @@ a:hover {
 .text-desc {
   text-align: justify;
   font-weight: normal;
-  font-style: italic;
+  /* font-style: italic; */
   font-size: 15;
   line-height: 20pt;
   font-family: chronicalight;
